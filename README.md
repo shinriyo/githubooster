@@ -1,11 +1,11 @@
-のーいじめ
+githubooster
 ====
 
 Overview
 
 ## Description
 
-いじめを無くすChrome拡張
+githubを便利にするChrome拡張
 
 ## Demo
 
@@ -21,7 +21,6 @@ Chrome
 
 ## Usage
 
-Facebookに投稿時に警告する。
 
 今後これのタグつける
 ```
