@@ -7,6 +7,10 @@ Overview
 
 githubを便利にするChrome拡張
 
+これを見た。
+Git・Githubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）
+http://qiita.com/sotayamashita/items/1cf05f2a2be3d6fb3388
+
 ## Demo
 
 N/A
